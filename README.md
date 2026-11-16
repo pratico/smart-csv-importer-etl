@@ -59,9 +59,9 @@ The pipeline is executed locally in an isolated environment to ensure maximum sp
 
 ## Confidentiality Notice & Free 50-Row B2B Test
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com)). Operated privately in an isolated local environment to protect client confidentiality and NDA compliance, the source code is not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). Operated privately in an isolated local environment to protect client confidentiality and NDA compliance, the source code is not publicly exposed.
 
-🧪 **Free 50-Row Sample Evaluation (Zero-Call B2B Service):** Have a messy 10,000+ row CSV, XML, or JSON supplier feed that needs cleaning, schema normalization, or AI SEO descriptions? Send a **50-row sample** via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangeloflore/) and receive a cleaned, production-ready file within 24 hours—completely free.
+🧪 **Free 50-Row Sample Evaluation (Zero-Call B2B Service):** Have a messy 10,000+ row CSV, XML, or JSON supplier feed that needs cleaning, schema normalization, or AI SEO descriptions? Send a **50-row sample** via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/). and receive a cleaned, production-ready file within 24 hours—completely free.
 
 ---
 
@@ -125,4 +125,4 @@ La lavorazione viene eseguita interamente in ambiente locale isolato per assicur
 
 🔒 **Asset Software Proprietario (Tutti i diritti riservati):** Questo repository ha finalità di presentazione funzionale e architetturale per il Portfolio Professionale ([https://antoniangeloflore.com](https://antoniangeloflore.com)). Operato privatamente in ambiente locale isolato a tutela della riservatezza e degli accordi NDA, il codice sorgente non è esposto pubblicamente.
 
-🧪 **Prova Gratuita su Campione da 50 Righe (Servizio B2B Asincrono Zero-Call):** Hai un listino fornitori CSV, XML o JSON da 10.000+ righe da bonificare, convertire o arricchire con descrizioni SEO? Invia un **campione di 50 righe** tramite [antoniangeloflore.com](https://antoniangeloflore.com) o [LinkedIn](https://www.linkedin.com/in/antoniangeloflore/) e ricevi il file pulito e pronto per l'importazione entro 24 ore, gratuitamente.
+🧪 **Prova Gratuita su Campione da 50 Righe (Servizio B2B Asincrono Zero-Call):** Hai un listino fornitori CSV, XML o JSON da 10.000+ righe da bonificare, convertire o arricchire con descrizioni SEO? Invia un **campione di 50 righe** tramite [antoniangeloflore.com](https://antoniangeloflore.com) o [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/). e ricevi il file pulito e pronto per l'importazione entro 24 ore, gratuitamente.
