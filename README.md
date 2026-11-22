@@ -59,7 +59,7 @@ The pipeline is executed locally in an isolated environment to ensure maximum sp
 
 ## Confidentiality Notice & Free 50-Row B2B Test
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). Operated privately in an isolated local environment to protect client confidentiality and NDA compliance, the source code is not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
 🧪 **Free 50-Row Sample Evaluation (Zero-Call B2B Service):** Have a messy 10,000+ row CSV, XML, or JSON supplier feed that needs cleaning, schema normalization, or AI SEO descriptions? Send a **50-row sample** via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/). and receive a cleaned, production-ready file within 24 hours—completely free.
 
